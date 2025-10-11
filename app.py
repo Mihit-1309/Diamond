@@ -12,9 +12,9 @@ This app will calculate the **total weight** and **weighted average price per ca
 
 # Example data
 example_data = {
-    "chavni": [14, 11, 8, 6, 5, 2, -2],
-    "price": [3500, 2500, 2800, 3800, 4000, 5000, 8000],
-    "weight": [12.3, 13.16, 18.22, 22.33, 38.09, 3.04, 1],
+    "chavni": [],
+    "price": [],
+    "weight": [],
 }
 
 # Create editable table
